@@ -2,3 +2,14 @@
     text-align: center;
     background-color: gray;
 }
+.center-text{
+    text-align: center;
+}
+#navbar{
+    display: flex; gap: 10px;
+}
+#footer {
+        position: absolute;
+        top: 1230px;
+        left: 850px;
+}
