@@ -11,14 +11,8 @@
 #navbar{
     display: flex; gap: 10px;
 }
-#footer {
-        position: absolute;
-        top: 1230px;
-        left: 850px;
-        background-color: gray;
-}
 #jotain .btn {
-    margin-right: 10px;
+margin-right: 300px;
 }
 #Jotain{
     background-color: rgb(128, 128, 128);
