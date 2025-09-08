@@ -8,9 +8,6 @@
 .center-text{
     text-align: center;
 }
-#navbar{
-    display: flex; gap: 10px;
-}
 #Jotain{
     background-color: rgb(128, 128, 128);
 }
