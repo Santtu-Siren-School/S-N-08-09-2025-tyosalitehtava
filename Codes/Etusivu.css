@@ -17,12 +17,6 @@
 #jotain .btn {
     margin-right: 10px;
 }
-.footer {
-   position: absolute;
-   top: -100px;
-   left: 0px;
-   background-color: gray;
-}
 #Jotain{
     background-color: rgb(128, 128, 128);
 }
